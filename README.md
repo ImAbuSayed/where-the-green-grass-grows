@@ -15,7 +15,7 @@
 | **Written On** | May 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/where-the-green-grass-grows/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Where the Green Grass Grows](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/where-the-green-grass-grows/) |
+| **Get License** | [Official Music Licensing for Where the Green Grass Grows](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/where-the-green-grass-grows/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> We can take it slow where the green grass grows
+> Out beyond the city, just where nobody knows
+> I can feel your fire burning through the cold
+> Got my hands on your waist, never letting you go
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
