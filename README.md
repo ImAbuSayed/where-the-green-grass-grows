@@ -15,7 +15,7 @@
 | **Written On** | May 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/where-the-green-grass-grows/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Where the Green Grass Grows](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/where-the-green-grass-grows/) |
+| **Get License** | [Commercial Licensing for Where the Green Grass Grows](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/where-the-green-grass-grows/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `8c598e709a616aaa6091f295220cf42c15e767d45855fabe2447e0cd7f70c39a` |
 | **Timestamp** | May 22, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

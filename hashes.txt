@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Where the Green Grass Grows
+
+This log tracks the cryptographic history and versioning for the song **Where the Green Grass Grows** (where-the-green-grass-grows).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-22T05:11:10.631172 | `v1` | `8c598e709a616aaa6091f295220cf42c15e767d45855fabe2447e0cd7f70c39a` | `eabd562a5792208f72962b3494703d5c1588e857e0d7799f71921ed1723d1053` | `2026-05-22_where-the-green-grass-grows-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
